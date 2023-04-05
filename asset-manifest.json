@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.dd1a2b27.css",
-    "main.js": "/static/js/main.2cf429d3.js",
+    "main.js": "/static/js/main.65478ac1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/proj2.png": "/static/media/proj2.f11f8abfd36c69566203.png",
     "static/media/Harsha_Vardhan_Resume.pdf": "/static/media/Harsha_Vardhan_Resume.cdb2d2ce895db21c7327.pdf",
     "static/media/proj-1.png": "/static/media/proj-1.4de90735c31c6aae4c56.png",
     "index.html": "/index.html",
     "main.dd1a2b27.css.map": "/static/css/main.dd1a2b27.css.map",
-    "main.2cf429d3.js.map": "/static/js/main.2cf429d3.js.map",
+    "main.65478ac1.js.map": "/static/js/main.65478ac1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd1a2b27.css",
-    "static/js/main.2cf429d3.js"
+    "static/js/main.65478ac1.js"
   ]
 }
